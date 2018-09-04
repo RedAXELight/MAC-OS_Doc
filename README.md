@@ -6,5 +6,5 @@
 
 ## Tâche 1 : Mise en place des outils de travail
 ## Tâche 2 : Spécifications matériel
-## Tâche 3 : Reformater et partitionner le disque dur <3
+## Tâche 3 : Reformater et partitionner le disque dur
 ## Tâche 4 : Décentraliser le réprtoire utilisateur
